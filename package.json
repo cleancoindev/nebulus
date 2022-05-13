@@ -13,7 +13,7 @@
     "axios": "^0.21.1",
     "bl": "^5.0.0",
     "ipfs-core": "^0.8.0",
-    "ipfs-unixfs-importer": "^8.0.0",
+    "ipfs-unixfs-importer": "^8.0.2",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
